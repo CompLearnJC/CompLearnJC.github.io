@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Text-Encoder on CompLearnJC</title>
+    <link>http://localhost:1313/tags/text-encoder/</link>
+    <description>Recent content in Text-Encoder on CompLearnJC</description>
+    <generator>Hugo -- 0.132.2</generator>
+    <language>en-us</language>
+    <copyright>CompLearnJC</copyright>
+    <lastBuildDate>Wed, 31 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/text-encoder/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Understanding and Mitigating Compositional Issues in Text-to-Image Generative Models</title>
+      <link>http://localhost:1313/blog/posts/understanding-and-mitigating-compositional-issues-in-text-to-image-generativ-models/</link>
+      <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/posts/understanding-and-mitigating-compositional-issues-in-text-to-image-generativ-models/</guid>
+      <description>Arman Zarei, Keivan Rezaei, Samyadeep Basu, Mehrdad Saberi, Mazda Moayeri, Priyatham Kattakinda, Soheil Feizi</description>
+    </item>
+  </channel>
+</rss>

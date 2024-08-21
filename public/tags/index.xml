@@ -7,6 +7,77 @@
     <generator>Hugo -- 0.132.2</generator>
     <language>en-us</language>
     <copyright>CompLearnJC</copyright>
+    <lastBuildDate>Wed, 31 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2024</title>
+      <link>http://localhost:1313/tags/2024/</link>
+      <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/2024/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CLIP</title>
+      <link>http://localhost:1313/tags/clip/</link>
+      <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/clip/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Composition</title>
+      <link>http://localhost:1313/tags/composition/</link>
+      <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/composition/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Compositional-Generation</title>
+      <link>http://localhost:1313/tags/compositional-generation/</link>
+      <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/compositional-generation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DeepFloyd</title>
+      <link>http://localhost:1313/tags/deepfloyd/</link>
+      <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/deepfloyd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Diffusion</title>
+      <link>http://localhost:1313/tags/diffusion/</link>
+      <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/diffusion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Image Generation</title>
+      <link>http://localhost:1313/tags/image-generation/</link>
+      <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/image-generation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stable-Diffusion</title>
+      <link>http://localhost:1313/tags/stable-diffusion/</link>
+      <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/stable-diffusion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>T5</title>
+      <link>http://localhost:1313/tags/t5/</link>
+      <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/t5/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Text-Encoder</title>
+      <link>http://localhost:1313/tags/text-encoder/</link>
+      <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/text-encoder/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
