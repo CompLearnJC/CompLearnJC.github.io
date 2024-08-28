@@ -4,11 +4,18 @@
     <title>Composition on CompLearnJC</title>
     <link>http://localhost:1313/tags/composition/</link>
     <description>Recent content in Composition on CompLearnJC</description>
-    <generator>Hugo -- 0.132.2</generator>
+    <generator>Hugo -- 0.133.1</generator>
     <language>en-us</language>
     <copyright>CompLearnJC</copyright>
     <lastBuildDate>Wed, 31 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/composition/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Compositional Visual Generation with Composable Diffusion Models</title>
+      <link>http://localhost:1313/blog/posts/compositional-visual-generation-with-composable-diffusion-models/</link>
+      <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/posts/compositional-visual-generation-with-composable-diffusion-models/</guid>
+      <description>Nan Liu, Shuang Li, Yilun Du, Antonio Torralba, and Joshua B. Tenenbaum</description>
+    </item>
     <item>
       <title>Understanding and Mitigating Compositional Issues in Text-to-Image Generative Models</title>
       <link>http://localhost:1313/blog/posts/understanding-and-mitigating-compositional-issues-in-text-to-image-generativ-models/</link>
