@@ -14,4 +14,5 @@ cover:
   hiddenInSingle: true
 ShowToc: true
 TocOpen: true
+hiddenInHomeList: true
 ---

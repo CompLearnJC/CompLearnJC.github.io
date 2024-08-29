@@ -8,6 +8,7 @@ tags: ["diffusion", "image generation", "composition", "compositional-generation
 # categories: []
 # series: []
 # aliases: []
+hiddenInHomeList: true
 cover:
   image: images/model.png
   caption: ""
