@@ -23,5 +23,13 @@
       <guid>http://localhost:1313/blog/posts/understanding-and-mitigating-compositional-issues-in-text-to-image-generativ-models/</guid>
       <description>Arman Zarei, Keivan Rezaei, Samyadeep Basu, Mehrdad Saberi, Mazda Moayeri, Priyatham Kattakinda, Soheil Feizi</description>
     </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>📝 About Us We gather to discuss and analyze cutting-edge research papers, share insights, and collaborate on ideas related to compositional learning. Whether you&amp;rsquo;re a seasoned researcher or just starting out in the field, our goal is to foster a deep understanding of the principles and challenges of compositionality in AI @ RIML Lab
+📚 Activities 📖 Paper Discussions: Regular meetings where we discuss recent papers on compositional learning. 🔍 Research Insights: Share and discuss key findings and ideas from ongoing research.</description>
+    </item>
   </channel>
 </rss>
