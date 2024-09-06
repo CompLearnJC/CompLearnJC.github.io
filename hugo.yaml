@@ -1,4 +1,4 @@
-baseURL: https://CompLearnJC.github.io/
+baseURL: https://CompLearnJC.github.io
 languageCode: en-us
 title: CompLearnJC
 copyright: "© [CompLearnJC](https://github.com/CompLearnJC/CompLearnJC.github.io/graphs/contributors)"
@@ -20,6 +20,14 @@ params:
     
   math: true
   hideSummary: true
+  ShowPostNavLinks: false
+  # ShowBreadCrumbs: true
+  # ShowCodeCopyButtons: true
+  ShowShareButtons: false
+  # ShowReadingTime: true
+  ShowPageNums: true
+  # ShowToc: true
+
 
 
 outputs:

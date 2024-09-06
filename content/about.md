@@ -20,4 +20,6 @@ If you're interested in joining our discussions or contributing to our research 
 
 ## 📧 Contact
 
-For more information, reach out to us via [CompLearnJC@Gmail.com](mailto:CompLearnJC@Gmail.com).
+For more information, reach out to us via Telegram:
+- [amirkasaei](https://t.me/amirkasaei)
+- [arashmarioriyad](https://t.me/arashmarioriyad)
