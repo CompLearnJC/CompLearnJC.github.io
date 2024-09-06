@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>CompLearnJC</title>
-    <link>http://localhost:1313/</link>
+    <link>https://CompLearnJC.github.io/</link>
     <description>Recent content on CompLearnJC</description>
     <generator>Hugo -- 0.133.1</generator>
     <language>en-us</language>
     <copyright>CompLearnJC</copyright>
     <lastBuildDate>Sun, 08 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://CompLearnJC.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching</title>
-      <link>http://localhost:1313/blog/posts/comat-aligning-text-to-image-diffusion-model-with-image-to-text-concept-matching/</link>
+      <link>https://CompLearnJC.github.io/blog/posts/comat-aligning-text-to-image-diffusion-model-with-image-to-text-concept-matching/</link>
       <pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/posts/comat-aligning-text-to-image-diffusion-model-with-image-to-text-concept-matching/</guid>
+      <guid>https://CompLearnJC.github.io/blog/posts/comat-aligning-text-to-image-diffusion-model-with-image-to-text-concept-matching/</guid>
       <description>Dongzhi Jiang, Guanglu Song, Xiaoshi Wu, Renrui Zhang, Dazhong Shen, Zhuofan Zong, Yu Liu, Hongsheng Li</description>
     </item>
     <item>
       <title>Understanding and Mitigating Compositional Issues in Text-to-Image Generative Models</title>
-      <link>http://localhost:1313/blog/posts/understanding-and-mitigating-compositional-issues-in-text-to-image-generativ-models/</link>
+      <link>https://CompLearnJC.github.io/blog/posts/understanding-and-mitigating-compositional-issues-in-text-to-image-generativ-models/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/posts/understanding-and-mitigating-compositional-issues-in-text-to-image-generativ-models/</guid>
+      <guid>https://CompLearnJC.github.io/blog/posts/understanding-and-mitigating-compositional-issues-in-text-to-image-generativ-models/</guid>
       <description>Arman Zarei, Keivan Rezaei, Samyadeep Basu, Mehrdad Saberi, Mazda Moayeri, Priyatham Kattakinda, Soheil Feizi</description>
     </item>
     <item>
       <title>Compositional Visual Generation with Composable Diffusion Models</title>
-      <link>http://localhost:1313/blog/posts/compositional-visual-generation-with-composable-diffusion-models/</link>
+      <link>https://CompLearnJC.github.io/blog/posts/compositional-visual-generation-with-composable-diffusion-models/</link>
       <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/posts/compositional-visual-generation-with-composable-diffusion-models/</guid>
+      <guid>https://CompLearnJC.github.io/blog/posts/compositional-visual-generation-with-composable-diffusion-models/</guid>
       <description>Nan Liu, Shuang Li, Yilun Du, Antonio Torralba, and Joshua B. Tenenbaum</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://CompLearnJC.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://CompLearnJC.github.io/about/</guid>
       <description>📝 About Us We gather to discuss and analyze cutting-edge research papers, share insights, and collaborate on ideas related to compositional learning. Whether you&amp;rsquo;re a seasoned researcher or just starting out in the field, our goal is to foster a deep understanding of the principles and challenges of compositionality in AI @ RIML Lab
 📚 Activities 📖 Paper Discussions: Regular meetings where we discuss recent papers on compositional learning. 🔍 Research Insights: Share and discuss key findings and ideas from ongoing research.</description>
     </item>

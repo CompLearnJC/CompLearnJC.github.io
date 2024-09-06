@@ -2,88 +2,88 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on CompLearnJC</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://CompLearnJC.github.io/tags/</link>
     <description>Recent content in Tags on CompLearnJC</description>
     <generator>Hugo -- 0.133.1</generator>
     <language>en-us</language>
     <copyright>CompLearnJC</copyright>
     <lastBuildDate>Sun, 08 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://CompLearnJC.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2024</title>
-      <link>http://localhost:1313/tags/2024/</link>
+      <link>https://CompLearnJC.github.io/tags/2024/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/2024/</guid>
+      <guid>https://CompLearnJC.github.io/tags/2024/</guid>
       <description></description>
     </item>
     <item>
       <title>Composition</title>
-      <link>http://localhost:1313/tags/composition/</link>
+      <link>https://CompLearnJC.github.io/tags/composition/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/composition/</guid>
+      <guid>https://CompLearnJC.github.io/tags/composition/</guid>
       <description></description>
     </item>
     <item>
       <title>Compositional-Generation</title>
-      <link>http://localhost:1313/tags/compositional-generation/</link>
+      <link>https://CompLearnJC.github.io/tags/compositional-generation/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/compositional-generation/</guid>
+      <guid>https://CompLearnJC.github.io/tags/compositional-generation/</guid>
       <description></description>
     </item>
     <item>
       <title>Diffusion</title>
-      <link>http://localhost:1313/tags/diffusion/</link>
+      <link>https://CompLearnJC.github.io/tags/diffusion/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/diffusion/</guid>
+      <guid>https://CompLearnJC.github.io/tags/diffusion/</guid>
       <description></description>
     </item>
     <item>
       <title>Image Generation</title>
-      <link>http://localhost:1313/tags/image-generation/</link>
+      <link>https://CompLearnJC.github.io/tags/image-generation/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/image-generation/</guid>
+      <guid>https://CompLearnJC.github.io/tags/image-generation/</guid>
       <description></description>
     </item>
     <item>
       <title>Stable-Diffusion</title>
-      <link>http://localhost:1313/tags/stable-diffusion/</link>
+      <link>https://CompLearnJC.github.io/tags/stable-diffusion/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/stable-diffusion/</guid>
+      <guid>https://CompLearnJC.github.io/tags/stable-diffusion/</guid>
       <description></description>
     </item>
     <item>
       <title>CLIP</title>
-      <link>http://localhost:1313/tags/clip/</link>
+      <link>https://CompLearnJC.github.io/tags/clip/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/clip/</guid>
+      <guid>https://CompLearnJC.github.io/tags/clip/</guid>
       <description></description>
     </item>
     <item>
       <title>DeepFloyd</title>
-      <link>http://localhost:1313/tags/deepfloyd/</link>
+      <link>https://CompLearnJC.github.io/tags/deepfloyd/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/deepfloyd/</guid>
+      <guid>https://CompLearnJC.github.io/tags/deepfloyd/</guid>
       <description></description>
     </item>
     <item>
       <title>T5</title>
-      <link>http://localhost:1313/tags/t5/</link>
+      <link>https://CompLearnJC.github.io/tags/t5/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/t5/</guid>
+      <guid>https://CompLearnJC.github.io/tags/t5/</guid>
       <description></description>
     </item>
     <item>
       <title>Text-Encoder</title>
-      <link>http://localhost:1313/tags/text-encoder/</link>
+      <link>https://CompLearnJC.github.io/tags/text-encoder/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/text-encoder/</guid>
+      <guid>https://CompLearnJC.github.io/tags/text-encoder/</guid>
       <description></description>
     </item>
     <item>
       <title>2022</title>
-      <link>http://localhost:1313/tags/2022/</link>
+      <link>https://CompLearnJC.github.io/tags/2022/</link>
       <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/2022/</guid>
+      <guid>https://CompLearnJC.github.io/tags/2022/</guid>
       <description></description>
     </item>
   </channel>
