@@ -1,5 +1,5 @@
 ---
-author: "Amir Kasaei"
+author: "Arash Marioriyad"
 title: "CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching"
 date: "2024-09-08"
 description: "Dongzhi Jiang, Guanglu Song, Xiaoshi Wu, Renrui Zhang, Dazhong Shen, Zhuofan Zong, Yu Liu, Hongsheng Li"

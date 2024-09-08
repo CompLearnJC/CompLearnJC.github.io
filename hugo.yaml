@@ -17,16 +17,36 @@ params:
     favicon16x16: "/favicon-16x16.png"
     favicon32x32: "/favicon-32x32.png"
     apple_touch_icon: "/apple-touch-icon.png"
+
+
+  # homeInfoParams:
+  #   Title: ""
+  #   Content: ""
+  profileMode:
+    enabled: true
+    title: "Compositional Learning Journal Club" # optional default will be site title
+    subtitle: "A research-focused community dedicated to exploring compositional problems in machine learning."
+    imageUrl: "/CompLearnJC-logo-g.png" # optional
+    imageTitle: "CompLearnJC logo" # optional
+    imageWidth: 300 # custom size
+    imageHeight: 300 # custom size
+    buttons:
+      - name: Blog
+        url: "blog"
+      - name: Schedule
+        url: "schedule"
+
     
   math: true
+  comments: true
   hideSummary: true
   ShowPostNavLinks: false
   # ShowBreadCrumbs: true
-  # ShowCodeCopyButtons: true
-  ShowShareButtons: false
-  # ShowReadingTime: true
+  ShowCodeCopyButtons: true
   ShowPageNums: true
-  # ShowToc: true
+  ShowToc: true
+  # ShowShareButtons: true
+  # ShareButtons: ["github", "twitter"] # To customize which share buttons to be enabled on page
 
 
 
@@ -43,17 +63,20 @@ menu:
       weight: 1
     - name: Blog
       url: blog
-      weight: 2
+      weight: 20
+    - name: Schedule
+      url: schedule
+      weight: 22
     - name: Archive
       url: archives
-      weight: 3
+      weight: 30
     - name: Tags
       url: tags
-      weight: 4
+      weight: 40
     - name: Search
       url: search
-      weight: 5
+      weight: 50
     - name: About
       url: about
-      weight: 6
+      weight: 60
     

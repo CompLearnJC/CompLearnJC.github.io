@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Schedule on CompLearnJC</title>
+    <link>http://localhost:1313/tags/schedule/</link>
+    <description>Recent content in Schedule on CompLearnJC</description>
+    <generator>Hugo -- 0.133.1</generator>
+    <language>en-us</language>
+    <copyright>CompLearnJC</copyright>
+    <atom:link href="http://localhost:1313/tags/schedule/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title> Sessions Schedule</title>
+      <link>http://localhost:1313/schedule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/schedule/</guid>
+      <description>Time: Every Sunday at 13:30 (GMT+3:30) Online: vc.sharif.edu/ch/rohban
+Subject Presenter Date Type References CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching Arash Marioriyad 2024/09/01 Public Understanding and Mitigating Compositional Issues in Text-to-Image Generative Models Dr MH Rohban 2024/09/01 Private </description>
+    </item>
+  </channel>
+</rss>

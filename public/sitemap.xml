@@ -55,10 +55,26 @@
   </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>
+    <loc>http://localhost:1313/schedule/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/about/</loc>
+  </url><url>
     <loc>http://localhost:1313/archives/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/compositional/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/date/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/schedule/</loc>
+  </url><url>
     <loc>http://localhost:1313/search/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/session/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/table/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/time/</loc>
   </url>
 </urlset>

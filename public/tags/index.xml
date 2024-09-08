@@ -12,42 +12,42 @@
     <item>
       <title>2024</title>
       <link>http://localhost:1313/tags/2024/</link>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/2024/</guid>
       <description></description>
     </item>
     <item>
       <title>Composition</title>
       <link>http://localhost:1313/tags/composition/</link>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/composition/</guid>
       <description></description>
     </item>
     <item>
       <title>Compositional-Generation</title>
       <link>http://localhost:1313/tags/compositional-generation/</link>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/compositional-generation/</guid>
       <description></description>
     </item>
     <item>
       <title>Diffusion</title>
       <link>http://localhost:1313/tags/diffusion/</link>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/diffusion/</guid>
       <description></description>
     </item>
     <item>
       <title>Image Generation</title>
       <link>http://localhost:1313/tags/image-generation/</link>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/image-generation/</guid>
       <description></description>
     </item>
     <item>
       <title>Stable-Diffusion</title>
       <link>http://localhost:1313/tags/stable-diffusion/</link>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/stable-diffusion/</guid>
       <description></description>
     </item>
@@ -84,6 +84,55 @@
       <link>http://localhost:1313/tags/2022/</link>
       <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/2022/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/tags/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/about/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Compositional</title>
+      <link>http://localhost:1313/tags/compositional/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/compositional/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Date</title>
+      <link>http://localhost:1313/tags/date/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/date/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Schedule</title>
+      <link>http://localhost:1313/tags/schedule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/schedule/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Session</title>
+      <link>http://localhost:1313/tags/session/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/session/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Table</title>
+      <link>http://localhost:1313/tags/table/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/table/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Time</title>
+      <link>http://localhost:1313/tags/time/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/time/</guid>
       <description></description>
     </item>
   </channel>
