@@ -16,5 +16,5 @@ Online: [vc.sharif.edu/ch/rohban](https://vc.sharif.edu/ch/rohban)
 
 | Subject                                                                                  | Presenter        | Date       | Type     | References |
 | :--------------------------------------------------------------------------------------- | :--------------: | :--------: | :------: | :--------- |
-| CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching        | Arash Marioriyad | 2024/09/01 | Public   |            |
+| CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching        | Arash Marioriyad | 2024/09/08 | Public   |            |
 | Understanding and Mitigating Compositional Issues in Text-to-Image Generative Models     | Dr MH Rohban     | 2024/09/01 | Private  |            |
