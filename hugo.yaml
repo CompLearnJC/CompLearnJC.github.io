@@ -13,7 +13,7 @@ params:
       url: "https://github.com/CompLearnJC"
     - name: youtube
       title: YouTube Channel
-      url: "https://www.youtube.com/@CompLearnJC"
+      url: "https://youtube.com/playlist?list=PLFr7f4WLNwrZnzmAm8ot8ZR5CZVu8i8R1&si=-omJeQhpM9uoikKp"
 
   assets:
     favicon: "/favicon.ico"
