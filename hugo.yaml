@@ -11,6 +11,9 @@ params:
     - name: github
       title: Github
       url: "https://github.com/CompLearnJC"
+    - name: youtube
+      title: YouTube Channel
+      url: "https://www.youtube.com/@CompLearnJC"
 
   assets:
     favicon: "/favicon.ico"
