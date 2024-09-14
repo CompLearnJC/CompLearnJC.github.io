@@ -7,14 +7,15 @@
     <generator>Hugo -- 0.133.1</generator>
     <language>en-us</language>
     <copyright>CompLearnJC</copyright>
-    <lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Divide, Evaluate, and Refine: Evaluating and Improving Text-to-Image Alignment with Iterative VQA Feedback</title>
-      <link>http://localhost:1313/blog/posts/divide-evaluate-and-refine-evaluating-and-improving-text-to-image-alignment-with-iterative-vqa-feedback/</link>
-      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/posts/divide-evaluate-and-refine-evaluating-and-improving-text-to-image-alignment-with-iterative-vqa-feedback/</guid>
-      <description>Jaskirat Singh, Liang Zheng</description>
+      <title>Compositional Learning</title>
+      <link>http://localhost:1313/blog/posts/compositional-learning/</link>
+      <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/posts/compositional-learning/</guid>
+      <description>Overview Compositional learning, inspired by the innate human ability to break down and generate complex ideas from simpler building blocks, seeks to empower machines with similar capacities. By recombining learned components, this approach significantly enhances generalization, allowing models to handle out-of-distribution (OOD) samples in real-world scenarios. This promising capability has sparked a surge of interest in several fields, including:
+🔍 Object-centric learning – enabling models to recognize and manipulate individual objects in complex environments.</description>
     </item>
     <item>
       <title>CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching</title>
@@ -49,8 +50,8 @@
       <link>http://localhost:1313/schedule/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/schedule/</guid>
-      <description>Time: Every Sunday at 13:30 (GMT+3:30) Online: vc.sharif.edu/ch/rohban
-Subject Presenter Date Type References Divide, Evaluate, and Refine: Evaluating and Improving Text-to-Image Alignment with Iterative VQA Feedback Amir Kasaei 2024/09/15 Public CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching Arash Marioriyad 2024/09/08 Public Understanding and Mitigating Compositional Issues in Text-to-Image Generative Models Dr MH Rohban 2024/09/01 Private </description>
+      <description> Online: vc.sharif.edu/ch/rohban
+Subject Presenter Date Time Type Divide, Evaluate, and Refine: Evaluating and Improving Text-to-Image Alignment with Iterative VQA Feedback Amir Kasaei 2024/09/15 14:00 (UTC+3:30) Public CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching Arash Marioriyad 2024/09/08 15:30 (UTC+3:30) Public Understanding and Mitigating Compositional Issues in Text-to-Image Generative Models Dr MH Rohban 2024/09/01 15:30 (UTC+3:30) Private </description>
     </item>
   </channel>
 </rss>

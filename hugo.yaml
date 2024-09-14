@@ -25,6 +25,7 @@ params:
   # homeInfoParams:
   #   Title: ""
   #   Content: ""
+
   profileMode:
     enabled: true
     title: "Compositional Learning Journal Club" # optional default will be site title
