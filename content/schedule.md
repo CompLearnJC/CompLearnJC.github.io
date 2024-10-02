@@ -9,13 +9,16 @@ draft: false
 ShowReadingTime: false
 ---
 
-<!--- Time: Every Sunday at 15:30 (UTC+3:30) \-->
+- Time: Every Sunday at 17:00 (UTC+3:30) \
 Online: [vc.sharif.edu/ch/rohban](https://vc.sharif.edu/ch/rohban)
 
 ---
 
 | Subject                                                                                                    | Presenter        | Date       | Time             | Type       |
 | :----------------------------------------------------------------------------------------------------------| :--------------: | :--------: | :--------------: | :--------- |
+| ComAlign: Compositional Alignment in Vision-Language Models                                                | Ali Abdollahi    | 2024/09/28 | 10:00 (UTC+3:30) | Private    |
 | Divide, Evaluate, and Refine: Evaluating and Improving Text-to-Image Alignment with Iterative VQA Feedback | Amir Kasaei      | 2024/09/15 | 14:00 (UTC+3:30) | Public     |
 | CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching                          | Arash Marioriyad | 2024/09/08 | 15:30 (UTC+3:30) | Public     |
 | Understanding and Mitigating Compositional Issues in Text-to-Image Generative Models                       | Dr MH Rohban     | 2024/09/01 | 15:30 (UTC+3:30) | Private    |
+
+ 
