@@ -15,6 +15,10 @@ params:
       title: YouTube Channel
       url: "https://youtube.com/playlist?list=PLFr7f4WLNwrZnzmAm8ot8ZR5CZVu8i8R1&si=-omJeQhpM9uoikKp"
 
+    - name: telegram
+      title: Telegram
+      url: "https://t.me/RIMLLab"
+
   assets:
     favicon: "/favicon.ico"
     favicon16x16: "/favicon-16x16.png"
