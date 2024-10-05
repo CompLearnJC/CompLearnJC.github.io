@@ -16,6 +16,7 @@ Online: [vc.sharif.edu/ch/rohban](https://vc.sharif.edu/ch/rohban)
 
 | Subject                                                                                                    | Presenter        | Date       | Time             | Type       |
 | :----------------------------------------------------------------------------------------------------------| :--------------: | :--------: | :--------------: | :--------- |
+| A semiotic methodology for assessing the compositional effectiveness of generative text-to-image models    | Amir Kasaei      | 2024/10/06 | 17:00 (UTC+3:30) | Public     |
 | ComAlign: Compositional Alignment in Vision-Language Models                                                | Ali Abdollahi    | 2024/09/28 | 10:00 (UTC+3:30) | Private    |
 | Divide, Evaluate, and Refine: Evaluating and Improving Text-to-Image Alignment with Iterative VQA Feedback | Amir Kasaei      | 2024/09/15 | 14:00 (UTC+3:30) | Public     |
 | CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching                          | Arash Marioriyad | 2024/09/08 | 15:30 (UTC+3:30) | Public     |
