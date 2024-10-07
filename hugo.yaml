@@ -43,6 +43,8 @@ params:
         url: "blog"
       - name: Schedule
         url: "schedule"
+      - name: Join Us
+        url: "join"
 
     
   math: true
@@ -87,6 +89,9 @@ menu:
     - name: About
       url: about
       weight: 60
+    - name: Join Us
+      url: join
+      weight: 70
     
 
 services:

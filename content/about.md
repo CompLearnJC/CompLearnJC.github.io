@@ -39,11 +39,6 @@ We gather to discuss and analyze cutting-edge research papers, share insights, a
 - [Amir Kasaei](https://www.linkedin.com/in/amirkasaei)
 - [Arash Marioriyad](https://www.linkedin.com/in/arash-mari-oriyad)
 
-## 🚀 How to Join
-
-If you're interested in joining our discussions or contributing to our research efforts, feel free to reach out or follow our GitHub for updates on upcoming meetings and topics.
-
-You can check meeting announcements @ [RIML Lab Channel](https://t.me/RIMLLab)
 
 
 ## 📧 Contact

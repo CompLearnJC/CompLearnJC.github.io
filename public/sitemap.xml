@@ -61,6 +61,8 @@
   </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>
+    <loc>http://localhost:1313/join/</loc>
+  </url><url>
     <loc>http://localhost:1313/schedule/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/about/</loc>
@@ -72,6 +74,14 @@
     <loc>http://localhost:1313/tags/compositional/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/date/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/join/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/position/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/presentation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/research/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/schedule/</loc>
   </url><url>

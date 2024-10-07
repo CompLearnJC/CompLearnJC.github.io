@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Position on CompLearnJC</title>
+    <link>http://localhost:1313/tags/position/</link>
+    <description>Recent content in Position on CompLearnJC</description>
+    <generator>Hugo -- 0.133.1</generator>
+    <language>en-us</language>
+    <copyright>CompLearnJC</copyright>
+    <atom:link href="http://localhost:1313/tags/position/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/join/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/join/</guid>
+      <description>🤝 Join US 📊 Presentation If you&amp;rsquo;re interested in joining our discussions or contributing to our research efforts, feel free to reach out or follow our GitHub for updates on upcoming meetings and topics.
+🔬 Open Research Position: Visual Compositional Generation We are excited to announce an open research opportunity under Dr. Rohban at the RIML Lab, Sharif University of Technology. This project focuses on enhancing text-to-image (T2I) generation in diffusion-based models by addressing compositional challenges.</description>
+    </item>
+  </channel>
+</rss>
