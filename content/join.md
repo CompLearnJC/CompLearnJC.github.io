@@ -19,7 +19,7 @@ If you're interested in joining our discussions or contributing to our research 
 
 ---
 
-## 🔬 Open Research Position: Visual Compositional Generation
+<!-- ## 🔬 Open Research Position: Visual Compositional Generation
 
 We are excited to announce an open research opportunity under **Dr. Rohban** at the **RIML Lab, Sharif University of Technology**. This project focuses on enhancing **text-to-image (T2I) generation** in diffusion-based models by addressing **compositional challenges**.
 
@@ -56,13 +56,13 @@ While large-scale diffusion models have made significant progress in **T2I synth
 ### 📌 How to Apply:
 
 Submit your application via the following form:  
-[**Application Form**](https://forms.gle/awvxWL7MAVjcDWiU9)
+[**Application Form**]()
 
 For any inquiries, please contact:  
 📧 **a.kasaei@me.com**  
-💬 **[@amirkasaei](https://t.me/amirkasaei)**
+💬 **[@amirkasaei](https://t.me/amirkasaei)** -->
 
-Follow us: **[@RIMLLab](https://twitter.com/RIMLLab)** 
+Follow us: **[@RIML Lab](https://twitter.com/RIMLLab)** 
 
 
 
