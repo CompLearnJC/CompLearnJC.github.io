@@ -9,7 +9,7 @@ draft: false
 ShowReadingTime: false
 ---
 
-- Time: Sunday at 17:00 (UTC+3:30) \
+- Time: Tuesday at 16:45 (UTC+3:30) \
 Online: [vc.sharif.edu/ch/rohban](https://vc.sharif.edu/ch/rohban)
 
 ---
