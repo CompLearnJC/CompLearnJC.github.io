@@ -16,6 +16,14 @@ Online: [vc.sharif.edu/ch/rohban](https://vc.sharif.edu/ch/rohban)
 
 | Subject                                                                                                    | Presenter               | Date       | Time             | Type       |
 | :----------------------------------------------------------------------------------------------------------| :---------------------: | :--------: | :--------------: | :--------- |
+| A Cat Is A Cat (Not A Dog!): Unraveling Information Mix-ups in Text-to-Image Encoders through Causal Analysis and Embedding Optimization                                                                                                 | Amir Kasaei             | 2025/06/10 | 16:45 (UTC+3:30) | Public     |
+| Erasing Undesirable Concepts in Diffusion Models with Adversarial Preservation                             | Aryan Komaei            | 2025/06/03 | 16:45 (UTC+3:30) | Public     |
+| Data Unlearning in Diffusion Models                                                                        | Aryan Komaei            | 2025/05/27 | 16:45 (UTC+3:30) | Public     |
+| Boosting Alignment for Post-Unlearning Text-to-Image Generative Models                                     | Aryan Komaei            | 2025/05/20 | 16:45 (UTC+3:30) | Public     |
+| Correcting Diffusion Generation through Resampling                                                         | Ali Aghayari            | 2025/02/04 | 17:30 (UTC+3:30) | Public     |
+| Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step                  | Amir Kasaei             | 2025/01/28 | 14:15 (UTC+3:30) | Public     |
+| GenArtist: Multimodal LLM as an Agent for Unified Image Generation and Editing                             | Dr MH Rohban            | 2024/12/25 | 15:30 (UTC+3:30) | Public     |
+| Counting Understanding in Visoin Language Models                                                           | Arash Marioriyad        | 2024/11/17 | 17:00 (UTC+3:30) | Public     |
 | Backdooring Bias into Text-to-Image Models                                                                 | Mehrdad Aksari Mahabadi | 2024/10/27 | 17:00 (UTC+3:30) | Public     |
 | InitNO: Boosting Text-to-Image Diffusion Models via Initial Noise Optimization                             | Amir Kasaei             | 2024/10/20 | 17:00 (UTC+3:30) | Public     |    
 | A semiotic methodology for assessing the compositional effectiveness of generative text-to-image models    | Amir Kasaei             | 2024/10/06 | 17:00 (UTC+3:30) | Public     |
